@@ -1,0 +1,6 @@
+Pandas: 1.5.3
+Numpy: 1.23.5
+Matplotlib: 3.7.1
+Networkx 3.2.1
+Pydtmc: 8.2.0
+River: 0.19.0
